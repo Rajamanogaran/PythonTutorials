@@ -1,0 +1,1 @@
+This search fails because the ****** range from 1 to 2, not including 2. Searching including, the second ****** makes find consistent with the slice 

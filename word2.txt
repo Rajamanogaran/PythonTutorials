@@ -1,0 +1,2 @@
+This search fails because the index range from 1 to 2, not including 2.
+Searching including, the second index makes find consistent with the slice
